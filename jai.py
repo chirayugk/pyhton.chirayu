@@ -1,0 +1,7 @@
+a=input("enter positivity")
+print("chirayu sharma is ",a)
+x=input("enter x:")
+y=input("enter y:")
+print("the concat value:",x+y)
+print("the sum ",int(x)+int(y))
+print("the multiple",int(x)*int(y))
